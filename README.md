@@ -5,26 +5,27 @@ In this project, you will create a fictional tea shop website on your own comput
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [Credits](#credits)
 
 
 ## General Information
-We will provide a design spec and image assets to help you along the way. 
-A design spec is an image of a web page outlined with all of its CSS properties and values. 
-These are usually created by a designer as a source of instructions for a web developer. 
-This project assumes that you will be able to reproduce the basic HTML and CSS with little guidance.
+We will provide a design spec and image assets to help you along the way. <br>
+A design spec is an image of a web page outlined with all of its CSS properties and values. <br>
+These are usually created by a designer as a source of instructions for a web developer. <br>
+This project assumes that you will be able to reproduce the basic HTML and CSS with little guidance.<br>
+Click [here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg) to access the design spec.
 
 
 ## Technologies Used
 - HTML
-- CSS - Layout with Flexbox
+- CSS
+* Git, GitHub and GitHub Pages
 
 
 ## Features
 List the ready features here:
 - Responsive Design
-- Layout with Flexbox
+- Flexbox Layout
 
-## Screenshots
-![Example screenshot](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg)
-<!-- If you have screenshots you'd like to share, include them here. -->
+## Credits
+This practice project is from the full stack program at Codeacademy.
